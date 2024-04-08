@@ -164,10 +164,6 @@ PRODUCT_PACKAGES += \
 # Characteristics
 PRODUCT_CHARACTERISTICS := nosdcard
 
-# Charger
-PRODUCT_PACKAGES += \
-    charger_res_images
-
 # DebugFS
 PRODUCT_SET_DEBUGFS_RESTRICTIONS := true
 
