@@ -25,7 +25,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Device Configs
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
-WITH_GMS := true
+WITH_GMS := false
 
 # Matrixx
 MATRIXX_BUILD_TYPE := Unofficial
